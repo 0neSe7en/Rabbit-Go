@@ -1,0 +1,10 @@
+{
+  "exchangeName": "example-go",
+  "exchangeType": "topic",
+  "exchangeOptions": {
+    "durable": true
+  },
+  "redisServer": "redis://127.0.0.1:6379",
+  "mongodb": "mongodb://localhost:27018",
+  "amqpUrl": "amqp://127.0.0.1"
+}
